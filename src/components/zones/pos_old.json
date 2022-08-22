@@ -1,0 +1,34 @@
+{
+	"type":"FeatureCollection",
+	"metadata":
+	{
+		"name":"Зона RLS1_6»",
+		"creator":"AO NPO LEMZ, Stepanenko K.V., stekir@mail.ru",
+		"description":"Позиции"
+	},
+	"features":
+	[
+		{	
+			"type":"Feature",
+			"id":0,
+			"geometry":{
+				"type":"Point",
+				"coordinates":[30.836242,59.866817]				 
+			},
+            "properties":{
+                "name":"Position1"
+            }
+		},
+        {	
+			"type":"Feature",
+			"id":1,
+			"geometry":{
+				"type":"Point",
+				"coordinates":[30.736242,59.866817]				 
+			},
+            "properties":{
+                "name":"Position2"
+            }
+		}
+	]
+}

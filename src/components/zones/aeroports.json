@@ -1,0 +1,51 @@
+{
+	"type":"FeatureCollection",
+	"metadata":
+	{
+		"name":"Аэропорты",
+		"creator":"AO NPO LEMZ, Stepanenko K.V., stepanenkokir@gmail.com",
+		"description":"Зона RLS1"
+		
+	},
+	"features":
+	[		
+		{	
+			"type":"Feature",
+			"id":0,
+			"geometry":
+			{
+				"type":"Point",
+				"coordinates":[60.01483019529143, 29.699009037429366] 
+			},
+			"properties": {
+				"name": "Бычье поле"
+			  }
+		},
+        {	
+			"type":"Feature",
+			"id":1,
+			"geometry":
+			{
+				"type":"Point",
+				"coordinates":[60.08922738522199, 30.19862080013894] 
+			},
+			"properties": {
+				"name": "Левашово"
+			  }
+		},        
+        {	
+			"type":"Feature",
+			"id":2,
+			"geometry":
+			{
+				"type":"Point",
+				"coordinates":[60.033476713537326, 30.01343756203552] 
+			},
+			"properties": {
+				"name": "Горская"
+			  }
+		}
+        
+
+	]
+}

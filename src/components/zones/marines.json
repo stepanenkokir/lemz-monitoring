@@ -1,0 +1,87 @@
+{
+	"type":"FeatureCollection",
+	"metadata":
+	{
+		"name":"Аэропорты",
+		"creator":"AO NPO LEMZ, Stepanenko K.V., stepanenkokir@gmail.com",
+		"description":"Зона RLS1"
+		
+	},
+	"features":
+	[		
+		{	
+			"type":"Feature",
+			"id":0,
+			"geometry":
+			{
+				"type":"Point",
+				"coordinates":[59.87978785338777, 30.21844140622917] 
+			},
+			"properties": {
+				"name": "Морской порт СПб"
+			  }
+		},
+        {	
+			"type":"Feature",
+			"id":1,
+			"geometry":
+			{
+				"type":"Point",
+				"coordinates":[59.93232338157533, 30.273726436413508] 
+			},
+			"properties": {
+				"name": "Пассажирский порт"
+			  }
+		},
+        {	
+			"type":"Feature",
+			"id":2,
+			"geometry":
+			{
+				"type":"Point",
+				"coordinates":[59.94868762469014, 30.190013535330252] 
+			},
+			"properties": {
+				"name": "Пассажирский морской порт"
+			  }
+		},
+        {	
+			"type":"Feature",
+			"id":3,
+			"geometry":
+			{
+				"type":"Point",
+				"coordinates":[59.94183629313879, 30.313291219197826] 
+			},
+			"properties": {
+				"name": "Порт у Эрмитажа"
+			  }
+		},
+        {	
+			"type":"Feature",
+			"id":4,
+			"geometry":
+			{
+				"type":"Point",
+				"coordinates":[59.89184459557505, 29.91311392972284] 
+			},
+			"properties": {
+				"name": "Порт Петергоф"
+			  }
+		},
+        {	
+			"type":"Feature",
+			"id":5,
+			"geometry":
+			{
+				"type":"Point",
+				"coordinates":[59.983182634459254, 29.762359260842423] 
+			},
+			"properties": {
+				"name": "Порт Кронштадт"
+			  }
+		}
+        
+		
+	]
+}
